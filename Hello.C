@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main () {
-    printf("Demo simple code");
+    printf("random print command");
 return 0;
 }
